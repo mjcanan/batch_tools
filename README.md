@@ -56,3 +56,9 @@
     <li>essentially a combination of "netstat -ano | find <port>" and "taskkill /F /PID <pid>"</li>
   </ul>
  </li>
+ <li>string_center
+  <ul>
+   <li>will pad a string right and left based on the size of the string</li>
+  </ul>
+ </li>
+</ul>

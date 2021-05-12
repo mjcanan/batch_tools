@@ -1,6 +1,6 @@
 <h1>Batch Scripts</h1>
 <h2>A repo for various global batch scripts</h2>
-<h3>These scripts (with the exception of pk) come from John Hammond's <a href="https://www.youtube.com/watch?v=JbAyxKjUPs0&list=PL69BE3BF7D0BB69C4&index=1">Youtube Tutorial</a>
+<h3>These scripts (with the exception of pk) come from John Hammond's <a href="https://www.youtube.com/watch?v=JbAyxKjUPs0&list=PL69BE3BF7D0BB69C4&index=1">Youtube Tutorial</a></h3>
  
  <ul>
  <li>abs<ul>

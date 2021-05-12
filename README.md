@@ -52,7 +52,7 @@
  </li>
   <li>pk
    <ul>
-    <li>takes a port number as an argument and kills the task at that argument</li>
+    <li>takes a port number as an argument and kills the task at that port</li>
     <li>essentially a combination of "netstat -ano | find <port>" and "taskkill /F /PID <pid>"</li>
   </ul>
  </li>
